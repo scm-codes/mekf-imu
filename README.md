@@ -1,2 +1,2 @@
 # mekf-imu
-Multiplicative Extended Kalman Filter
+Multiplicative Extended Kalman Filter for attitude estimation using IMU
